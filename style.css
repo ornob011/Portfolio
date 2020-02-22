@@ -33,7 +33,7 @@ body {
 .sec1 {
     margin: 90px 30px 90px 140px;
     height: 420px;
-    width: 30%;
+    width: 600px;
     float: left;
     padding: 30px;
 }
@@ -41,7 +41,6 @@ body {
 .biography {
     background-image: url("images/biography-bg.png");
     background-repeat: no-repeat;
-    background-size: 100% 650px;
     height: 650px;
     margin: 20px;
 }
@@ -49,7 +48,7 @@ body {
 .sec2 {
     margin: 90px 140px 90px 30px;
     height: 100px;
-    width: 35%;
+    width: 600px;
     float: left;
     padding: 30px;
 }
@@ -57,7 +56,6 @@ body {
 .latest-work {
     background-image: url("images/latest-work-bg.png");
     background-repeat: no-repeat;
-    background-size: 100% 650px;
     height: 650px;
     margin: 80px 20px 20px 0px;
 }
@@ -65,7 +63,7 @@ body {
 .latest-work-image {
     margin-left: 70px;
     height: 250px;
-    width: 25%;
+    width: 500px;
     float: left;
     background-color: white;
 }
@@ -73,7 +71,6 @@ body {
 .lower {
     background-image: url("images/footer-bg.png");
     background-repeat: no-repeat;
-    background-size: 100% 650px;
     height: 650px;
     margin: 0px 20px 20px 0px;
 }
@@ -123,7 +120,7 @@ p {
 
 img {
     height: 450px;
-    width: 70%;
+    width: 450px;
 }
 
 .work {
@@ -131,12 +128,12 @@ img {
     margin-right: auto;
     box-shadow: 4px 4px 4px 4px gray;
     height: 500px;
-    width: 90%;
+    width: 440px;
     padding: 20px 20px;
 }
 
 .testimony-client {
-    width: 35%;
+    width: 500px;
     margin: 40px auto 0px auto;
     text-align: justify;
 }
