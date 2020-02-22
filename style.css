@@ -1,0 +1,162 @@
+body {
+    margin: 0;
+    font-family: 'Roboto';
+    text-align: justify;
+}
+
+.first_part {
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100% 650px;
+    height: 650px;
+    margin: 20px 20px 20px 0px;
+}
+
+.hire-button {
+    text-decoration: none;
+    background-image: linear-gradient(45deg, rgb(241, 87, 87), rgb(241, 87, 87));
+    padding: 15px 50px;
+    border-radius: 5px;
+    color: white;
+    font-size: 20px;
+}
+
+.hire-button:hover {
+    background-color: red;
+    color: black;
+}
+
+.name {
+    color: rgb(233, 66, 66);
+}
+
+.sec1 {
+    margin: 90px 30px 90px 140px;
+    height: 420px;
+    width: 30%;
+    float: left;
+    padding: 30px;
+}
+
+.biography {
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100% 650px;
+    height: 650px;
+    margin: 20px;
+}
+
+.sec2 {
+    margin: 90px 140px 90px 30px;
+    height: 100px;
+    width: 35%;
+    float: left;
+    padding: 30px;
+}
+
+.latest-work {
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100% 650px;
+    height: 650px;
+    margin: 80px 20px 20px 0px;
+}
+
+.latest-work-image {
+    margin-left: 70px;
+    height: 250px;
+    width: 25%;
+    float: left;
+    background-color: white;
+}
+
+.lower {
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100% 650px;
+    height: 650px;
+    margin: 0px 20px 20px 0px;
+}
+
+.client {
+    margin-top: 70px;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: 800px;
+}
+
+h2 {
+    font-size: 30px;
+    color: white;
+}
+
+.email {
+    text-decoration: none;
+    font-size: 40px;
+    font-weight: 800px;
+    text-align: center;
+}
+
+h3 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 20px;
+}
+
+.cv-button {
+    text-decoration: none;
+    background-image: linear-gradient(45deg, rgb(241, 87, 87), rgb(241, 87, 87));
+    padding: 15px 50px;
+    border-radius: 5px;
+    color: white;
+    font-size: 20px;
+}
+
+.cv-button:hover {
+    background-color: red;
+    color: black;
+}
+
+img {
+    height: 450px;
+    width: 70%;
+}
+
+.work {
+    margin-left: 70px;
+    margin-right: auto;
+    box-shadow: 4px 4px 4px 4px gray;
+    height: 500px;
+    width: 90%;
+    padding: 20px 20px;
+}
+
+.testimony-client {
+    width: 35%;
+    margin: 40px auto 0px auto;
+    text-align: justify;
+}
+
+.to-quote {
+    font-size: 35px;
+    font-weight: 900;
+}
+
+.contact-mail {
+    background-image: linear-gradient(90deg, hotpink, tomato);
+    height: 180px;
+    border: 1px solid blue;
+    margin: 30px 200px;
+    border-radius: 20px;
+    color: white;
+}
+
+footer p {
+    margin-top: 100px;
+    text-align: center;
+    size: 20px;
+}
